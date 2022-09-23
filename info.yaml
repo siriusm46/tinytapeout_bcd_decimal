@@ -6,8 +6,8 @@
 #
 # This will be automatically collected and used to make a datasheet for the chip.
 project: 
-  author:       ""      # Your name
-  title:        ""      # Project title
+  author:       ""      # siriusm46
+  title:        ""      # BCD to Decimal
   description:  ""      # Short description of what your project does
   how_it_works: ""      # Longer description of how the project works
   how_to_test:  ""      # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
@@ -15,7 +15,7 @@ project:
   doc_link:     ""      # URL to longer form documentation, eg the README.md in your repository
   clock_hz:     0       # Clock frequency in Hz (if required)
   language:     "wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  wokwi_id:     0       # the wokwi ID
+  wokwi_id:     0       # 341473139924927058
   picture:      ""      # relative path to a picture in your repository
   inputs:               # a description of what the inputs do
     - clock
